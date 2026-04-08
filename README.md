@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # mi_agenda_nuevo
 
 A new Flutter project.
